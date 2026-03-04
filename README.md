@@ -49,21 +49,6 @@ I take pride in crafting high-quality code for every project. Staying updated wi
 <br/>  
 
 
-## Github Stats  
-<table align="center"><tr><td valign="top"  width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tenvy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenvy&hide_border=true&layout=compact" align="left" style="width: 90%"/>
-
-</td></tr></table>  
-
-<br/>  
-<br/>  
-
-<div align="center">
-  
-![Profile views counter](https://komarev.com/ghpvc/?username=tenvy&&style=flat-square)  
+## Github Contribution  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tenvy&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
